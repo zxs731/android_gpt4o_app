@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GPT-4o Speech Assistant</string>
+    <string name="speechButtonText">Recognize Speech</string>
+</resources>
